@@ -13,8 +13,8 @@
 - GitHub: Removing sensitive data from a repository: https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/removing-sensitive-data-from-a-repository
 
 ## Real-world incidents (verify details before presenting)
-- Uber 2016 breach: AWS credentials found in a GitHub repository (TODO: add a news/official source link)
-- Toyota 2022: access key exposed in public GitHub code (TODO: add Toyota official statement link)
+- Uber 2016 breach (FTC): https://www.ftc.gov/node/54285 and SecurityWeek: https://www.securityweek.com/uber-settles-federal-investigators-over-2016-data-breach-coverup
+- Toyota T-Connect 2022: https://techcrunch.com/2022/10/12/toyota-customer-email-addresses-exposed/ and https://www.theregister.com/2022/10/11/toyota_source_code_email_leak/
 
 ## Notes
 - All secrets in this repository are fake demo values.
